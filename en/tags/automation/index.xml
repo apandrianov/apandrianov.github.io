@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation | Andrianov Aleksandr</title>
+    <link>https://apandrianov.github.io/en/tags/automation/</link>
+      <atom:link href="https://apandrianov.github.io/en/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apandrianov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Automation</title>
+      <link>https://apandrianov.github.io/en/tags/automation/</link>
+    </image>
+    
+    <item>
+      <title>Continuous Integration and Continuous Deployment (CI/CD)</title>
+      <link>https://apandrianov.github.io/en/publication/01/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-what-is-cicd&#34;&gt;⚙️ What Is CI/CD?&lt;/h2&gt;
+&lt;p&gt;CI/CD refers to a set of practices and tools that support &lt;strong&gt;Continuous Integration&lt;/strong&gt; and &lt;strong&gt;Continuous Deployment/Delivery&lt;/strong&gt; of software. The main goal is to automate the build, test, and delivery processes — increasing both development speed and software quality.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-continuous-integration-ci&#34;&gt;🔁 Continuous Integration (CI)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Integration&lt;/strong&gt; involves frequently merging code changes into the main branch of a project. Every commit automatically triggers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚒️ Project build;&lt;/li&gt;
+&lt;li&gt;🧪 Unit and integration tests;&lt;/li&gt;
+&lt;li&gt;🔍 Code quality analysis (linting, test coverage, vulnerability scans).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The benefit: bugs are detected early, allowing teams to respond quickly and maintain stability.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-continuous-delivery-and-deployment-cd&#34;&gt;🚀 Continuous Delivery and Deployment (CD)&lt;/h2&gt;
+&lt;p&gt;CD includes two main approaches:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Delivery&lt;/strong&gt; — code is automatically prepared for release, but the deployment step is done manually;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Deployment&lt;/strong&gt; — updates are automatically released into production without manual intervention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both methods enable:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📦 Rapid delivery of new features;&lt;/li&gt;
+&lt;li&gt;🔄 Stable and repeatable release cycles;&lt;/li&gt;
+&lt;li&gt;📉 Reduced deployment errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-common-tools&#34;&gt;🧰 Common Tools&lt;/h2&gt;
+&lt;p&gt;CI/CD is implemented using various tools such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jenkins, GitLab CI, GitHub Actions — for pipeline automation;&lt;/li&gt;
+&lt;li&gt;Docker, Kubernetes — for containerization and scalability;&lt;/li&gt;
+&lt;li&gt;Ansible, Terraform — for infrastructure as code;&lt;/li&gt;
+&lt;li&gt;SonarQube, Snyk — for code quality and security analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-businesses-need-cicd&#34;&gt;🌍 Why Businesses Need CI/CD&lt;/h2&gt;
+&lt;p&gt;CI/CD helps organizations to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🕒 Reduce time-to-market;&lt;/li&gt;
+&lt;li&gt;💡 Rapidly deliver new features and react to feedback;&lt;/li&gt;
+&lt;li&gt;🔒 Improve reliability and security;&lt;/li&gt;
+&lt;li&gt;📈 Enhance team collaboration and workflow efficiency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;CI/CD is the foundation of modern DevOps culture. It ensures a fast, reliable, and controlled development lifecycle, minimizes risk, and accelerates product delivery. Adopting CI/CD is not just a technical upgrade — it’s a strategic move toward greater flexibility and quality in software development.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

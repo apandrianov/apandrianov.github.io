@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students | Andrianov Aleksandr</title>
+    <link>https://apandrianov.github.io/en/tags/students/</link>
+      <atom:link href="https://apandrianov.github.io/en/tags/students/index.xml" rel="self" type="application/rss+xml" />
+    <description>Students</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apandrianov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Students</title>
+      <link>https://apandrianov.github.io/en/tags/students/</link>
+    </image>
+    
+    <item>
+      <title>Study Chronicle - Week 2 (June 2–8)</title>
+      <link>https://apandrianov.github.io/en/post/02/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-2-the-exam-session-begins&#34;&gt;📝 Week 2: The Exam Session Begins&lt;/h2&gt;
+&lt;p&gt;The exam session has officially started! The first exam was &lt;strong&gt;Informatics&lt;/strong&gt;. I got a question on logic circuits and basic Python programming. It was challenging, but prior experience from practicals really helped.&lt;/p&gt;
+&lt;p&gt;I also passed the &lt;strong&gt;English language credit&lt;/strong&gt; — thanks to prepared presentations, everything went smoothly. The teacher even praised my pronunciation and structure.&lt;/p&gt;
+&lt;p&gt;Finally, I’m starting to feel how all the learning is coming together into a cohesive whole.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Andrianov Aleksandr</title>
+    <link>https://apandrianov.github.io/en/project/</link>
+      <atom:link href="https://apandrianov.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apandrianov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://apandrianov.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://apandrianov.github.io/en/project/hugo/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-does-a-researcher-need-a-personal-website&#34;&gt;🧭 Why Does a Researcher Need a Personal Website?&lt;/h2&gt;
+&lt;p&gt;In the digital era of science, having a personal website has become a crucial element of academic identity. It allows you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📢 Showcase your research and publications;&lt;/li&gt;
+&lt;li&gt;🔗 Link profiles from multiple platforms (Google Scholar, ORCID, ResearchGate);&lt;/li&gt;
+&lt;li&gt;📅 Announce conference participation and academic events;&lt;/li&gt;
+&lt;li&gt;🧠 Promote your ideas and build connections with researchers around the world.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Moreover, a website helps students, collaborators, and potential employers quickly understand your research focus and ongoing projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-choose-hugo-academic&#34;&gt;🌍 Why Choose Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic (now &lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Scholar&lt;/a&gt;)&lt;/strong&gt; is a popular framework for building academic websites based on the Hugo static site generator. Its key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📐 Clean and structured design;&lt;/li&gt;
+&lt;li&gt;⚙️ Flexible site layout and content customization;&lt;/li&gt;
+&lt;li&gt;🚀 Fast page loading thanks to static rendering;&lt;/li&gt;
+&lt;li&gt;🔒 High security (no server backend required);&lt;/li&gt;
+&lt;li&gt;💼 Markdown and GitHub integration — great for version control and collaboration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Especially useful for researchers are its built-in modules for managing publications, teaching, biography, and blogging.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-features-and-structure&#34;&gt;🔧 Features and Structure&lt;/h2&gt;
+&lt;p&gt;The site is modular and supports various content sections, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Homepage&lt;/strong&gt; with a brief bio, contact info, and links;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;About section&lt;/strong&gt; — academic background, interests, achievements;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publication list&lt;/strong&gt; — auto-import from BibTeX or manual entry;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt; — course details, lectures, and learning materials;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt; — research or applied project overviews;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt; — posts, reflections, commentaries;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gallery&lt;/strong&gt; — photos, posters, visual media;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Events and news feed&lt;/strong&gt; — for announcements and updates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can also integrate RSS feeds, Twitter, Google Scholar, and other platforms.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-does-a-website-help-an-academic-career&#34;&gt;📈 How Does a Website Help an Academic Career?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Increased visibility:&lt;/strong&gt; your work is indexed and accessible to a broader audience.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Professional image building:&lt;/strong&gt; the site acts as your digital academic business card.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Facilitating collaboration:&lt;/strong&gt; easier to connect with partners and join international projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparency and open science:&lt;/strong&gt; share not just papers, but also presentations, code, and data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;💡 Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating a personal website is an investment in your scientific future. With Hugo Academic, you get a flexible, elegant, and scalable platform to present your work. Even without a programming background, basic Markdown skills and a thoughtful approach are enough to get started.&lt;/p&gt;
+&lt;p&gt;A personal website isn’t just a trend — it’s a staple of modern academic culture.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

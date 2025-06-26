@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup | Andrianov Aleksandr</title>
+    <link>https://apandrianov.github.io/en/tags/markup/</link>
+      <atom:link href="https://apandrianov.github.io/en/tags/markup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apandrianov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markup</title>
+      <link>https://apandrianov.github.io/en/tags/markup/</link>
+    </image>
+    
+    <item>
+      <title>Markup Languages. LaTeX</title>
+      <link>https://apandrianov.github.io/en/publication/02/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-are-markup-languages&#34;&gt;🧾 What Are Markup Languages?&lt;/h2&gt;
+&lt;p&gt;Markup languages are systems of rules and symbols used to define the structure and formatting of text. They are widely used for creating documents, websites, and technical documentation. Unlike word processors, markup languages allow a clear separation between content and presentation.&lt;/p&gt;
+&lt;p&gt;One of the most powerful and precise markup languages is &lt;strong&gt;LaTeX&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-latex&#34;&gt;✍️ What Is LaTeX?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; (pronounced “lah-tech”) is a typesetting system for scientific and technical documents, based on the TeX language. It was designed for high-quality typography and is ideal for creating:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Scientific papers;&lt;/li&gt;
+&lt;li&gt;📚 Term papers and theses;&lt;/li&gt;
+&lt;li&gt;🧠 Mathematical formulas;&lt;/li&gt;
+&lt;li&gt;📊 Charts and tables;&lt;/li&gt;
+&lt;li&gt;📎 Structurally rigorous documents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-choose-latex&#34;&gt;🧠 Why Choose LaTeX?&lt;/h2&gt;
+&lt;h3 id=&#34;-precision-and-academic-standards&#34;&gt;🔬 Precision and Academic Standards&lt;/h3&gt;
+&lt;p&gt;LaTeX ensures consistent typography and clean formatting, especially important in academic texts. It’s the standard for many journals, conferences, and universities.&lt;/p&gt;
+&lt;h3 id=&#34;-automation&#34;&gt;🛠 Automation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Automatic numbering for formulas, tables, and figures;&lt;/li&gt;
+&lt;li&gt;Auto-generated table of contents and bibliography;&lt;/li&gt;
+&lt;li&gt;Built-in support for references and cross-references.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-flexibility&#34;&gt;💡 Flexibility&lt;/h3&gt;
+&lt;p&gt;LaTeX offers easy style management via templates and packages, making it a universal tool for all types of scholarly writing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-it-used&#34;&gt;⚙️ Where Is It Used?&lt;/h2&gt;
+&lt;p&gt;LaTeX is widely used in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Physics, mathematics, and computer science;&lt;/li&gt;
+&lt;li&gt;Engineering and technical fields;&lt;/li&gt;
+&lt;li&gt;Graduate research and academic publishing;&lt;/li&gt;
+&lt;li&gt;Book, report, and dissertation formatting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Many platforms (like Overleaf, ShareLaTeX) provide user-friendly online editors for working with LaTeX without installing anything locally.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;LaTeX is more than just a markup language — it&amp;rsquo;s a powerful tool for professional document formatting. While the learning curve may seem steep at first, it pays off with precision, flexibility, and standardization. For students, graduate researchers, and academics, LaTeX is a valuable skill worth mastering.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

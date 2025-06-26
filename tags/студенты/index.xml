@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Студенты | Андрианов Александр</title>
+    <link>https://apandrianov.github.io/tags/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%8B/</link>
+      <atom:link href="https://apandrianov.github.io/tags/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>Студенты</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apandrianov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Студенты</title>
+      <link>https://apandrianov.github.io/tags/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%8B/</link>
+    </image>
+    
+    <item>
+      <title>Учебная хроника - неделя 2 (2–8 июня)</title>
+      <link>https://apandrianov.github.io/post/02/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/post/02/</guid>
+      <description>&lt;h2 id=&#34;-неделя-2-начало-сессии&#34;&gt;📝 Неделя 2: Начало сессии&lt;/h2&gt;
+&lt;p&gt;Стартовала сессия! Первый экзамен — &lt;strong&gt;информатика&lt;/strong&gt;. Попался вопрос по логическим схемам и основам программирования на Python. Было сложно, но выручил опыт с прошлых практических работ.&lt;/p&gt;
+&lt;p&gt;Также прошёл &lt;strong&gt;зачёт по английскому языку&lt;/strong&gt; — благодаря подготовленным презентациям всё прошло гладко. Преподаватель похвалил за произношение и структуру ответа.&lt;/p&gt;
+&lt;p&gt;Наконец-то почувствовал, что всё обучение начинает складываться в целостную картину.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

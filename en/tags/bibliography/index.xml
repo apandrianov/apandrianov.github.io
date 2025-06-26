@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliography | Andrianov Aleksandr</title>
+    <link>https://apandrianov.github.io/en/tags/bibliography/</link>
+      <atom:link href="https://apandrianov.github.io/en/tags/bibliography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bibliography</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apandrianov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Bibliography</title>
+      <link>https://apandrianov.github.io/en/tags/bibliography/</link>
+    </image>
+    
+    <item>
+      <title>Working with Bibliography</title>
+      <link>https://apandrianov.github.io/en/publication/03/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;-what-is-a-bibliography&#34;&gt;📚 What Is a Bibliography?&lt;/h2&gt;
+&lt;p&gt;A bibliography is a systematic list of sources referenced by an author in their work. It plays a crucial role in academic writing, verifying the credibility of information, demonstrating depth of research, and showing respect for the contributions of other scholars.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-is-proper-citation-important&#34;&gt;🧠 Why Is Proper Citation Important?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🧾 Compliance with academic standards (GOST, APA, MLA, etc.);&lt;/li&gt;
+&lt;li&gt;🔍 Easier retrieval of referenced literature;&lt;/li&gt;
+&lt;li&gt;💡 Protection against plagiarism claims;&lt;/li&gt;
+&lt;li&gt;🎓 Enhancing credibility and scholarly integrity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A well-organized bibliography reflects academic discipline and respect for the research community.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tools-for-managing-references&#34;&gt;🛠 Tools for Managing References&lt;/h2&gt;
+&lt;h3 id=&#34;-zotero-and-mendeley&#34;&gt;📌 Zotero and Mendeley&lt;/h3&gt;
+&lt;p&gt;These programs allow you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Save and organize references;&lt;/li&gt;
+&lt;li&gt;Import citations from research portals (Google Scholar, Scopus);&lt;/li&gt;
+&lt;li&gt;Generate bibliographies in the required format;&lt;/li&gt;
+&lt;li&gt;Integrate with Word and Google Docs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-bibtex&#34;&gt;📌 BibTeX&lt;/h3&gt;
+&lt;p&gt;Used alongside LaTeX, BibTeX lets you create &lt;code&gt;.bib&lt;/code&gt; files with source metadata and automatically format citations and reference lists.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-types-of-sources&#34;&gt;🧾 Types of Sources&lt;/h2&gt;
+&lt;p&gt;Bibliographies can include various materials:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Books;&lt;/li&gt;
+&lt;li&gt;Journal articles;&lt;/li&gt;
+&lt;li&gt;Online resources;&lt;/li&gt;
+&lt;li&gt;Legal documents;&lt;/li&gt;
+&lt;li&gt;Theses, reports, and standards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each type has specific formatting rules.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-organize-the-bibliography&#34;&gt;⚙️ How to Organize the Bibliography?&lt;/h2&gt;
+&lt;p&gt;References can be sorted by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📅 Chronology (by year);&lt;/li&gt;
+&lt;li&gt;🔠 Alphabetical order (by author’s surname);&lt;/li&gt;
+&lt;li&gt;📑 Order of appearance in the text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It&amp;rsquo;s important to stick to one citation style throughout the entire work.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;Working with bibliography is a fundamental part of academic writing. It requires precision and organization, but modern tools can help automate most of the routine. A well-structured bibliography is a hallmark of a professional and credible research effort.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

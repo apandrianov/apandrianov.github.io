@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Andrianov Aleksandr</title>
+    <link>https://apandrianov.github.io/en/post/</link>
+      <atom:link href="https://apandrianov.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apandrianov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://apandrianov.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Study Chronicle - Week 4 (June 16–22)</title>
+      <link>https://apandrianov.github.io/en/post/04/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-4-final-credits-and-project-defense&#34;&gt;🎓 Week 4: Final Credits and Project Defense&lt;/h2&gt;
+&lt;p&gt;The home stretch! This week we had the &lt;strong&gt;Information Theory credit&lt;/strong&gt; — the format included a mini-test and short answer questions. The professor turned it into a lively discussion, which actually made it fun.&lt;/p&gt;
+&lt;p&gt;I also presented my &lt;strong&gt;course project pre-defense&lt;/strong&gt;. I showcased a business process model for an online store and received helpful feedback and visualization tips.&lt;/p&gt;
+&lt;p&gt;Spent the weekend relaxing a bit and organizing my notes — the final exam is just around the corner.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Chronicle - Week 3 (June 9–15)</title>
+      <link>https://apandrianov.github.io/en/post/03/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-3-math-and-analysis-exams&#34;&gt;📐 Week 3: Math and Analysis Exams&lt;/h2&gt;
+&lt;p&gt;This week was all about &lt;strong&gt;differential equations&lt;/strong&gt;. The exam was tough — the problems weren’t easy, but good preparation paid off. I spent a lot of time reviewing past exam questions.&lt;/p&gt;
+&lt;p&gt;I also passed the &lt;strong&gt;Introduction to Business Informatics&lt;/strong&gt; credit — we discussed the role of IT in enterprise digitalization. It was especially interesting to analyze a case on how CRM systems transform business processes.&lt;/p&gt;
+&lt;p&gt;Managed to relax a bit over the weekend — our group went to the park and played board games. A much-needed break between exams. ☀️&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Chronicle - Week 2 (June 2–8)</title>
+      <link>https://apandrianov.github.io/en/post/02/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-2-the-exam-session-begins&#34;&gt;📝 Week 2: The Exam Session Begins&lt;/h2&gt;
+&lt;p&gt;The exam session has officially started! The first exam was &lt;strong&gt;Informatics&lt;/strong&gt;. I got a question on logic circuits and basic Python programming. It was challenging, but prior experience from practicals really helped.&lt;/p&gt;
+&lt;p&gt;I also passed the &lt;strong&gt;English language credit&lt;/strong&gt; — thanks to prepared presentations, everything went smoothly. The teacher even praised my pronunciation and structure.&lt;/p&gt;
+&lt;p&gt;Finally, I’m starting to feel how all the learning is coming together into a cohesive whole.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Chronicle - Week 1 (May 26 – June 1)</title>
+      <link>https://apandrianov.github.io/en/post/01/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://apandrianov.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-1-the-final-push-before-exams&#34;&gt;📚 Week 1: The Final Push Before Exams&lt;/h2&gt;
+&lt;p&gt;This week marked the end of lectures before the exam period. The most memorable sessions were in &lt;strong&gt;Business Economics&lt;/strong&gt; — we discussed real-world IT industry cases and practiced analyzing business models.&lt;/p&gt;
+&lt;p&gt;Additionally, we prepared for the &lt;strong&gt;Mathematical Analysis&lt;/strong&gt; credit test: solved lots of problems, reviewed key theorems. I even created a handy proof structure template — definitely useful for the exam!&lt;/p&gt;
+&lt;p&gt;The rest of the week was all about the library, lecture notes, and coffee. The main motivation? Summer is just around the corner. 😄&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
